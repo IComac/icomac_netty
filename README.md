@@ -1,6 +1,7 @@
 # icomac_netty
 
 **项目架构整理和功能实现**
+
 后端：
  1. 使用netty构建webscket服务器，编写chatHandler对消息进行处理
  2. 整合SpringBoot2.0+MyBatis+netty
